@@ -4,8 +4,8 @@
   "title": "Greet user",
   "titleGenerationStatus": "success",
   "createdAt": 1780732738736,
-  "updatedAt": 1780732799320,
-  "lastResponseAt": 1780732799320,
+  "updatedAt": 1780736328359,
+  "lastResponseAt": 1780736328359,
   "sessionId": "019e9bf1-50f0-7483-b754-1cd287d530f3",
   "providerState": {
     "threadId": "019e9bf1-50f0-7483-b754-1cd287d530f3",
@@ -13,13 +13,13 @@
     "transcriptRootPath": "C:\\Users\\fengluo\\.codex\\sessions"
   },
   "usage": {
-    "inputTokens": 10279,
+    "inputTokens": 16936,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 6016,
+    "cacheReadInputTokens": 10624,
     "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 10279,
-    "percentage": 4,
+    "contextTokens": 16936,
+    "percentage": 7,
     "model": "gpt-5.5"
   }
 }
